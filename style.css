@@ -1,0 +1,46 @@
+header{
+background-color: skyblue;
+color: black;
+font-size: 30px;
+padding: 1%;
+text-align: center;
+margin: 1%;
+border: 2px solid black;
+box-shadow: 3px 3px 3px black;
+}
+
+#career{
+  width: 95%;
+  border: 2px solid #ddd;
+  padding: 1%;
+  margin: 1%;
+}
+section{
+  border: 1px solid #ddd;
+	width: 97%;
+	padding: 0.3%;
+	margin: 1%;
+    background-color: skyblue;
+}
+.parent{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.parent section{
+  width: 48%;
+  background-color: skyblue;
+}
+input,
+select{
+	display: block;
+	margin: .3% auto;
+	width: 90%;
+	padding: 1%;
+}
+h2,p{
+  text-align: center;
+}
+#tech{
+  width: 95%;
+}

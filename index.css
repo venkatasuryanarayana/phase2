@@ -1,0 +1,19 @@
+header{
+background-color: skyblue;
+color: black;
+font-size: 30px;
+padding: 1%;
+text-align: center;
+margin: 1%;
+border: 2px solid black;
+box-shadow: 3px 3px 3px black;
+}
+a img{
+  width: 8%;
+  display: block;
+  margin-left: auto;
+  border: 2px solid black;
+  border-radius: 50%;
+  box-shadow: 3px 3px 3px black;
+
+}
